@@ -27,12 +27,12 @@
 .status {
   height: 20px;
   width: 80%;
-  background-color: white;
+  background-color: green;
   border-radius: 20px;
 }
 
 .statusBar{
   height:100%;
   border-radius:20px;
-  barkground: red;
+  barkground: whitesmoke;
 }

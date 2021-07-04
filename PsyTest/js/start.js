@@ -78,7 +78,7 @@ function goNext(qIdx){
     addAnswer(qnaList[qIdx].a[i].answer, qIdx, i);
   }
   var status = document.querySelector('.statusBar');
-  status.style.width = (100/endPoint) * (qIdx+1) + '%';
+  status.style.width = (100/endPoint) * (qIdx) + '%';
 }
 
 function begin(){
