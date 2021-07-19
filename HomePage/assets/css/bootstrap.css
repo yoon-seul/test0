@@ -25,7 +25,32 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
-
+.picture {
+	margin-left:25%;
+	width: 500px;
+	height: 500px;
+	text-align: center;
+	-webkit-animation: fadein 3s
+}
+@keyframes fadein {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+.title {
+	
+	text-align: center;
+}
+#two{
+	display:none;
+}
+.box{
+	text-align:center;
+	margin-top:30%;
+}
 
 
 article, aside, details, figcaption, figure,

@@ -1758,6 +1758,10 @@ input, select, textarea {
 			margin-top:10%
 		}
 
+		input[name="passage"] {
+			height: 500%
+		}
+
 /* Section/Article */
 
 	section.special, article.special {
