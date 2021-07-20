@@ -1757,10 +1757,9 @@ input, select, textarea {
 
 		}
 
-		.dragon {
-			margin-top:40%;
-            text-align: center;
-            font-size: 500%
+		#book1 {
+			margin-top:10%;
+            font-size: 100%
 		}
 
 /* Section/Article */
@@ -2847,6 +2846,16 @@ input, select, textarea {
 			border-top: 0;
 		}
 
+	h3 {
+		text-align: center;
+		color:#ffffff
+	}
+	.book1 {
+		border-radius : 30px;
+		background-color:#030455;
+		color:rgb(224, 206, 206);
+		margin-top: 10%;
+	}
 /* Footer */
 
 	#footer {
